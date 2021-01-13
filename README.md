@@ -1,7 +1,7 @@
 # SUES-Courses-Resource
 ## 前言
 
-本课程受 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 启发，致力于整理SUES期末考试的往年试卷、复习资料，为同学们备考助力。
+本仓库受 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 启发，致力于整理SUES期末考试的往年试卷、复习资料，为同学们备考助力。
 
 引用一段我非常喜欢的话：（来自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 
