@@ -1,7 +1,7 @@
 """
-Function: 
+Function: The Method of Least Squares
 Coding: utf-8
-Author: Sun Yuexin
+Author: fox2049
 Date:
 """
 

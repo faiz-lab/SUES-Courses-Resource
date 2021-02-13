@@ -1,7 +1,7 @@
 """
 Function: Find Mean, Variance, Standard Variance of X(discrete random variables)
 Coding: utf-8
-Author: Sun Yuexin
+Author: fox2049
 Date: 2020/11/10
 """
 

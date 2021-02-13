@@ -1,7 +1,7 @@
 """
 Function: the sign test for Mathematical Statistics and Its Application, Practice 4, task-12
 Coding: utf-8
-Author: Sun Yuexin
+Author: fox2049
 Date: 2020/11/21
 """
 
